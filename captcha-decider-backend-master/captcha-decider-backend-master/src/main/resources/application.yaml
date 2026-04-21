@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: capstone
+
+security:
+  session-analysis:
+    url: http:///54.92.188.66:8000/analyze_session
